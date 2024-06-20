@@ -1,0 +1,42 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "What is love",
+      "body": "love is something good for anyone if the deserve it it is so much assets for wants. Love is better than hate because from hate you do not get anything so please love one another.",
+      "likes": 99
+    },
+    {
+      "id": "2",
+      "title": "Being with you",
+      "body": "I am happy being with you dear my aunt you treating loke my mom you're hospitality is so amazing my aunt but there may be something bad I maen when i think the situation that going currently there may be something badn if i desturb or bother you please bear with me the same is true for your child Kidus.",
+      "likes": 80
+    },
+    {
+      "id": "3",
+      "title": "Who is Zekariyas?",
+      "body": "Zekariyas, its name is found from Zechariah who is the priste in earley time thne time of saint marrr and he wos a good person. so this name is found from this men. in general zekariyas is poor boy and he is learning programming to get heiht profit from his work.",
+      "likes": 89
+    }
+  ],
+  "programming": [
+    {
+      "id": "1",
+      "name": "javaScript",
+      "description": "this programming language is a so very very simple to understand it very well.",
+      "credit hour": 5
+    },
+    {
+      "id": "2",
+      "name": "python",
+      "description": "this programming language is so wonderful for machine learning and artificial intelegence",
+      "credit hour": 7
+    },
+    {
+      "id": "3",
+      "name": "java",
+      "description": "oh java can use for web development by being jsp file which is the mixture of html and java code.",
+      "credit hour": 5
+    }
+  ]
+}
